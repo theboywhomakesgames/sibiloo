@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mh\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mh\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_sibiloo.-223562992.00" t="ExcludeRecursive" />
+    <e p="E:\GameProj\sibiloo" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="addSpeed.cs" t="Include" />
+        <e p="autoDie.cs" t="Include" />
+        <e p="Bounce.cs" t="Include" />
+        <e p="bulletShoot.cs" t="Include" />
+        <e p="CharacterControl.cs" t="Include" />
+        <e p="characterController.cs" t="Include" />
+        <e p="EnemyMain.cs" t="Include" />
+        <e p="follow.cs" t="Include" />
+        <e p="MainControl.cs" t="Include" />
+        <e p="mamatosenLight.cs" t="Include" />
+        <e p="PlatformGen.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="DOTween" t="Include">
+            <e p="Modules" t="Include">
+              <e p="DOTweenModuleAudio.cs" t="Include" />
+              <e p="DOTweenModulePhysics.cs" t="Include" />
+              <e p="DOTweenModulePhysics2D.cs" t="Include" />
+              <e p="DOTweenModuleSprite.cs" t="Include" />
+              <e p="DOTweenModuleUI.cs" t="Include" />
+              <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+              <e p="DOTweenModuleUtils.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ScreenStruct.cs" t="Include" />
+        <e p="Shaders" t="Include">
+          <e p="BaseShader.shader" t="Include" />
+          <e p="blinnPhong.shader" t="Include" />
+          <e p="bunnyShader.shader" t="Include" />
+          <e p="diff.shader" t="Include" />
+          <e p="lightMesh.shader" t="Include" />
+          <e p="maskPlane.shader" t="Include" />
+          <e p="test.shader" t="Include" />
+        </e>
+        <e p="spriteMaker.cs" t="Include" />
+        <e p="SubjectNerd" t="Include">
+          <e p="PixelCamera" t="Include">
+            <e p="PixelCamDrawer.cs" t="Include" />
+            <e p="PixelCamera.cs" t="Include" />
+            <e p="PixelCamFallback.shader" t="Include" />
+          </e>
+        </e>
+        <e p="TimeControl.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="sibiloo.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
